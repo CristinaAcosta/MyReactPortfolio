@@ -2,10 +2,10 @@ import React from 'react';
 import {Card,Container, Row,} from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import Style from './style.css';
-import pdf from './Update Cristina Acosta.pdf';
+import pdf from './Cristina E Acosta.pdf';
 
 function About() {
-    return (
+    return (  
         <div class="about">
         <Container>
     <Row id="about">
